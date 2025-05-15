@@ -37,7 +37,7 @@ def convert_files():
 
 # GUI Setup
 root = tk.Tk()
-root.title("Batch Audio Converter")
+root.title("<CNVRTR>")
 root.geometry("350x200")
 
 files = []
